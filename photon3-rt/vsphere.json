@@ -1,0 +1,17 @@
+{
+  "vcenter_server": "vcenter1.vmwedge.com",
+  "username": "administrator@vmwedge.com",
+  "password": "VMwareEdge1!",
+  "insecure_connection": "true",
+  "datacenter": "DC1",
+  "cluster": "DC1-Cluster1",
+  "resource_pool": "",
+  "folder": "",
+  "datastore": "datastore2",
+  "network": "Private",
+  "convert_to_template": "false",
+  "create_snapshot": "false",
+  "linked_clone": "false",
+  "template": "false"
+}
+

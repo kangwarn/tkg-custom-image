@@ -1,0 +1,1 @@
+ovftool --acceptAllEulas --datastore=datastore2 --net:nic0=Private --vmFolder=Templates --vmFolder=TKG photon-3-rt-kube-v1.22.5+vmware.1.ova vi://vcenter1.vmwedge.com/DC1/host/DC1-Cluster1/edge-dc-test-1.vmwedge.com
