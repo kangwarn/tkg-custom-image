@@ -1,0 +1,7 @@
+TKG Image Builder: TKG-Image-Builder-for-Kubernetes-v1.22.5-on-TKG-v1.5.2-master.zip
+
+https://developer.vmware.com/samples/7865/tkg-image-builder-for-kubernetes-v1.22.5-on-tkg-v1.5.2?h=Sample
+
+Based on the image builder documentation
+
+https://image-builder.sigs.k8s.io/capi/providers/vsphere.html
