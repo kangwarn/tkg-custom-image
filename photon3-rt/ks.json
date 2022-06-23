@@ -56,6 +56,7 @@
     "systemctl enable sshd",
     "tdnf clean all",
     "swapoff -a",
-    "rm -f /swapfile"
+    "rm -f /swapfile",
+    "echo vm.nr_hugepages=2048 > /etc/sysctl.conf"
   ]
 }
