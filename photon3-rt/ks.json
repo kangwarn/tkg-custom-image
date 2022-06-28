@@ -23,6 +23,7 @@
     "iptables",
     "iproute2",
     "iputils",
+    "libhugetlbfs",
     "libtool",
     "linux-rt",
     "motd",
